@@ -1,0 +1,6 @@
+test:
+  sessions:
+    default:
+      database: grandchild_save_bug_test
+      hosts:
+        - localhost:27017
